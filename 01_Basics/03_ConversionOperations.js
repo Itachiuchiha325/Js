@@ -24,4 +24,16 @@ let stringnumber = String (somenumber)
 console.log(stringnumber);
 console.log(typeof stringnumber)
 
+//******************* Operations*****************************************
+
+const num1 = 0;
+const num2 = 5;
+console.log(num1 + num2);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log(1 + "2" + 1);
+
+
+
     
